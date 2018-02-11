@@ -1,0 +1,627 @@
+fileFormatVersion: 2
+guid: 75c53ac86544b0a4583a95a53554b955
+timeCreated: 1518364564
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: B_DISK
+    100002: B_GUN
+    100004: B_GUNSWIV
+    100006: b_panel
+    100008: COCK_STR01
+    100010: COCK_STRUT
+    100012: CORRIDOR
+    100014: CORRIDOR01
+    100016: CORRIDOR02
+    100018: CORRIDOR03
+    100020: CORRIDOR04
+    100022: CORRIDOR05
+    100024: CORRIDOR06
+    100026: CORRIDOR07
+    100028: CORRIDOR08
+    100030: CORRIDOR09
+    100032: CORRIDOR10
+    100034: CORRIDOR11
+    100036: CORRIDOR12
+    100038: CORRIDOR13
+    100040: CORRIDOR14
+    100042: CORRIDOR15
+    100044: CORRIDOR16
+    100046: CORRIDOR17
+    100048: CORRIDOR18
+    100050: CORRIDOR19
+    100052: f_gear
+    100054: ff_geardr
+    100056: fr_geardr
+    100058: front
+    100060: front_hole
+    100062: gun_top
+    100064: m_body
+    100066: m_pass
+    100068: MB_FRONT
+    100070: //RootNode
+    100072: MT_FRONT
+    100074: p_panel
+    100076: pod
+    100078: r_body
+    100080: r_geardr01
+    100082: r_geardr02
+    100084: r_geardr03
+    100086: r_geardr04
+    100088: r_gearpod
+    100090: r_panel
+    100092: radar
+    100094: RADAR_AXL
+    100096: ramp
+    100098: rl_gear
+    100100: rr_gear
+    100102: solar_panl
+    100104: T_DISK
+    100106: T_GUNSWIV
+    100108: t_panel
+    400000: B_DISK
+    400002: B_GUN
+    400004: B_GUNSWIV
+    400006: b_panel
+    400008: COCK_STR01
+    400010: COCK_STRUT
+    400012: CORRIDOR
+    400014: CORRIDOR01
+    400016: CORRIDOR02
+    400018: CORRIDOR03
+    400020: CORRIDOR04
+    400022: CORRIDOR05
+    400024: CORRIDOR06
+    400026: CORRIDOR07
+    400028: CORRIDOR08
+    400030: CORRIDOR09
+    400032: CORRIDOR10
+    400034: CORRIDOR11
+    400036: CORRIDOR12
+    400038: CORRIDOR13
+    400040: CORRIDOR14
+    400042: CORRIDOR15
+    400044: CORRIDOR16
+    400046: CORRIDOR17
+    400048: CORRIDOR18
+    400050: CORRIDOR19
+    400052: f_gear
+    400054: ff_geardr
+    400056: fr_geardr
+    400058: front
+    400060: front_hole
+    400062: gun_top
+    400064: m_body
+    400066: m_pass
+    400068: MB_FRONT
+    400070: //RootNode
+    400072: MT_FRONT
+    400074: p_panel
+    400076: pod
+    400078: r_body
+    400080: r_geardr01
+    400082: r_geardr02
+    400084: r_geardr03
+    400086: r_geardr04
+    400088: r_gearpod
+    400090: r_panel
+    400092: radar
+    400094: RADAR_AXL
+    400096: ramp
+    400098: rl_gear
+    400100: rr_gear
+    400102: solar_panl
+    400104: T_DISK
+    400106: T_GUNSWIV
+    400108: t_panel
+    2300000: B_DISK
+    2300002: B_GUN
+    2300004: B_GUNSWIV
+    2300006: b_panel
+    2300008: COCK_STR01
+    2300010: COCK_STRUT
+    2300012: CORRIDOR
+    2300014: CORRIDOR01
+    2300016: CORRIDOR02
+    2300018: CORRIDOR03
+    2300020: CORRIDOR04
+    2300022: CORRIDOR05
+    2300024: CORRIDOR06
+    2300026: CORRIDOR07
+    2300028: CORRIDOR08
+    2300030: CORRIDOR09
+    2300032: CORRIDOR10
+    2300034: CORRIDOR11
+    2300036: CORRIDOR12
+    2300038: CORRIDOR13
+    2300040: CORRIDOR14
+    2300042: CORRIDOR15
+    2300044: CORRIDOR16
+    2300046: CORRIDOR17
+    2300048: CORRIDOR18
+    2300050: CORRIDOR19
+    2300052: f_gear
+    2300054: ff_geardr
+    2300056: fr_geardr
+    2300058: front
+    2300060: front_hole
+    2300062: gun_top
+    2300064: m_body
+    2300066: m_pass
+    2300068: MB_FRONT
+    2300070: MT_FRONT
+    2300072: p_panel
+    2300074: pod
+    2300076: r_body
+    2300078: r_geardr01
+    2300080: r_geardr02
+    2300082: r_geardr03
+    2300084: r_geardr04
+    2300086: r_gearpod
+    2300088: r_panel
+    2300090: radar
+    2300092: RADAR_AXL
+    2300094: ramp
+    2300096: rl_gear
+    2300098: rr_gear
+    2300100: solar_panl
+    2300102: T_DISK
+    2300104: T_GUNSWIV
+    2300106: t_panel
+    3300000: B_DISK
+    3300002: B_GUN
+    3300004: B_GUNSWIV
+    3300006: b_panel
+    3300008: COCK_STR01
+    3300010: COCK_STRUT
+    3300012: CORRIDOR
+    3300014: CORRIDOR01
+    3300016: CORRIDOR02
+    3300018: CORRIDOR03
+    3300020: CORRIDOR04
+    3300022: CORRIDOR05
+    3300024: CORRIDOR06
+    3300026: CORRIDOR07
+    3300028: CORRIDOR08
+    3300030: CORRIDOR09
+    3300032: CORRIDOR10
+    3300034: CORRIDOR11
+    3300036: CORRIDOR12
+    3300038: CORRIDOR13
+    3300040: CORRIDOR14
+    3300042: CORRIDOR15
+    3300044: CORRIDOR16
+    3300046: CORRIDOR17
+    3300048: CORRIDOR18
+    3300050: CORRIDOR19
+    3300052: f_gear
+    3300054: ff_geardr
+    3300056: fr_geardr
+    3300058: front
+    3300060: front_hole
+    3300062: gun_top
+    3300064: m_body
+    3300066: m_pass
+    3300068: MB_FRONT
+    3300070: MT_FRONT
+    3300072: p_panel
+    3300074: pod
+    3300076: r_body
+    3300078: r_geardr01
+    3300080: r_geardr02
+    3300082: r_geardr03
+    3300084: r_geardr04
+    3300086: r_gearpod
+    3300088: r_panel
+    3300090: radar
+    3300092: RADAR_AXL
+    3300094: ramp
+    3300096: rl_gear
+    3300098: rr_gear
+    3300100: solar_panl
+    3300102: T_DISK
+    3300104: T_GUNSWIV
+    3300106: t_panel
+    4300000: B_DISK
+    4300002: B_GUN
+    4300004: B_GUNSWIV
+    4300006: b_panel
+    4300008: COCK_STR01
+    4300010: COCK_STRUT
+    4300012: CORRIDOR
+    4300014: CORRIDOR01
+    4300016: CORRIDOR02
+    4300018: CORRIDOR03
+    4300020: CORRIDOR04
+    4300022: CORRIDOR05
+    4300024: CORRIDOR06
+    4300026: CORRIDOR07
+    4300028: CORRIDOR08
+    4300030: CORRIDOR09
+    4300032: CORRIDOR10
+    4300034: CORRIDOR11
+    4300036: CORRIDOR12
+    4300038: CORRIDOR13
+    4300040: CORRIDOR14
+    4300042: CORRIDOR15
+    4300044: CORRIDOR16
+    4300046: CORRIDOR17
+    4300048: CORRIDOR18
+    4300050: CORRIDOR19
+    4300052: f_gear
+    4300054: ff_geardr
+    4300056: fr_geardr
+    4300058: front
+    4300060: front_hole
+    4300062: gun_top
+    4300064: m_body
+    4300066: m_pass
+    4300068: MB_FRONT
+    4300070: MT_FRONT
+    4300072: p_panel
+    4300074: pod
+    4300076: r_body
+    4300078: r_geardr01
+    4300080: r_geardr02
+    4300082: r_geardr03
+    4300084: r_geardr04
+    4300086: r_gearpod
+    4300088: r_panel
+    4300090: radar
+    4300092: RADAR_AXL
+    4300094: ramp
+    4300096: rl_gear
+    4300098: rr_gear
+    4300100: solar_panl
+    4300102: T_DISK
+    4300104: T_GUNSWIV
+    4300106: t_panel
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_DISKMat
+    second: {fileID: 2100000, guid: 48b2ddb50d8f6a74f9be81d81d17c756, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_GUNMat
+    second: {fileID: 2100000, guid: aa9c3b229a82c7c4e9febd59d36dc027, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: B_GUNSWIVMat
+    second: {fileID: 2100000, guid: 5fe32b22c64ef0c4b8f2eb7cde0764ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: COCK_STR01Mat
+    second: {fileID: 2100000, guid: 916fccc3e3bf8134cb44ce12a8043d70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: COCK_STRUTMat
+    second: {fileID: 2100000, guid: 1eed1738afb1a2c42a5c3f579d30195d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR01Mat
+    second: {fileID: 2100000, guid: 8661f87fc0567cc4a9d198ba67973526, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR02Mat
+    second: {fileID: 2100000, guid: 6a21961a568e0d9428393ef352b56b88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR03Mat
+    second: {fileID: 2100000, guid: 20066f6f7292cf341a888907af60e550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR04Mat
+    second: {fileID: 2100000, guid: a229b1d6f17df9b469644ed0746ddd39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR05Mat
+    second: {fileID: 2100000, guid: 53b235163e9664048b0515302df8e970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR06Mat
+    second: {fileID: 2100000, guid: 7b825a9287d00cc449c1f14525adc169, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR07Mat
+    second: {fileID: 2100000, guid: 33229192b8b68df48b9b97a78f6c5f6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR08Mat
+    second: {fileID: 2100000, guid: 8e75d60a6e0694946bd49e2c0472cc94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR09Mat
+    second: {fileID: 2100000, guid: af7da2477df6b744e98dbd7227f7b1ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR10Mat
+    second: {fileID: 2100000, guid: 5a967ee2648d17b449df951e6a0dd890, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR11Mat
+    second: {fileID: 2100000, guid: 4c9af71b83bec9643a03385e8ac4d561, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR12Mat
+    second: {fileID: 2100000, guid: 7c8b1e7f57c126c40b62b70564d645c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR13Mat
+    second: {fileID: 2100000, guid: 60034d385d2bf8e4b89b279c14c2ff37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR14Mat
+    second: {fileID: 2100000, guid: 42bd3d14517cb82479562f021c72fca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR15Mat
+    second: {fileID: 2100000, guid: 57e3296e7b7014c42b593e8cede14a58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR16Mat
+    second: {fileID: 2100000, guid: dc4a5d7d153289c4cb1c46298bb00b5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR17Mat
+    second: {fileID: 2100000, guid: d90479543714874499c5eb4bc14f1a21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR18Mat
+    second: {fileID: 2100000, guid: 64ddd57254efc954d8d65629b3d8c577, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDOR19Mat
+    second: {fileID: 2100000, guid: 5247851e53e7c7b48af2186ce0e455fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORRIDORMat
+    second: {fileID: 2100000, guid: ec13984930c32304d9d0aa14074768cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MB_FRONTMat
+    second: {fileID: 2100000, guid: ed01afadbbe55ee4db1a3fc74e7a7d87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MT_FRONTMat
+    second: {fileID: 2100000, guid: 8cd6369e40a5f5f48a9e4dd1f9a69795, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RADAR_AXLMat
+    second: {fileID: 2100000, guid: 554db12fc04d5cf4a85f90ee254019ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T_DISKMat
+    second: {fileID: 2100000, guid: 1ed61190a3c4c9f43bc9933433043841, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T_GUNSWIVMat
+    second: {fileID: 2100000, guid: efb293ce28b8ad84eb26bdf1528f2b71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_panelMat
+    second: {fileID: 2100000, guid: 71e4944b58ed9114fbcdb3629d9ee2e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: f_gearMat
+    second: {fileID: 2100000, guid: 6362145a4846b094399a3487ab51c9ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ff_geardrMat
+    second: {fileID: 2100000, guid: e6b056dac6b167c4494407404e4d7328, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fr_geardrMat
+    second: {fileID: 2100000, guid: a06d274d7c0db6345a1b8e7dcb61d481, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frontMat
+    second: {fileID: 2100000, guid: de793d49ea9ea72438052fba1e9d562c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front_holeMat
+    second: {fileID: 2100000, guid: 8ec9b05c32e1f7e41b93d30fc78264ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun_topMat
+    second: {fileID: 2100000, guid: 699b6a488a15b224e8d82e44446b0c5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_bodyMat
+    second: {fileID: 2100000, guid: e68faf5232632c04bb9c2dca35049f43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_passMat
+    second: {fileID: 2100000, guid: aa0bd5336be495741aae71dc3746218e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p_panelMat
+    second: {fileID: 2100000, guid: 9961e8545ee117a4db6eddb14636dd4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: podMat
+    second: {fileID: 2100000, guid: 45c33cbd98269fc4ab7f789faa4be85b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: r_bodyMat
+    second: {fileID: 2100000, guid: 777c867b20754f14c9fbb5bb6641773e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: r_geardr01Mat
+    second: {fileID: 2100000, guid: 805f82da86a4c2240880b0bba16e8701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: r_geardr02Mat
+    second: {fileID: 2100000, guid: d3a80746abf9d4b4bb87f4acf5874765, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: r_geardr03Mat
+    second: {fileID: 2100000, guid: b5fc5d7ab87b9e74389e3e557238cc00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: r_geardr04Mat
+    second: {fileID: 2100000, guid: eb51e31e41695394594003ebb837eb7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: r_gearpodMat
+    second: {fileID: 2100000, guid: 33789347af3ee314692c4e792da369a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: r_panelMat
+    second: {fileID: 2100000, guid: df248a36438936b409c6a9d3141c016d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: radarMat
+    second: {fileID: 2100000, guid: 11d37f9b81caccc46bfd048d71901964, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rampMat
+    second: {fileID: 2100000, guid: 73b9dc0250fc747469f4857c906138da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rl_gearMat
+    second: {fileID: 2100000, guid: 7d59cb27ac0309447b9cb85dc5a3c6ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rr_gearMat
+    second: {fileID: 2100000, guid: b8cde43304e93bf44bf2fc0c6558ad7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: solar_panlMat
+    second: {fileID: 2100000, guid: 3c3c58a32d946e2468c51b2b014b9781, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t_panelMat
+    second: {fileID: 2100000, guid: d5b4a425714d5e7478b74566da082737, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

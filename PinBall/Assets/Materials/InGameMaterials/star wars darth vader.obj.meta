@@ -1,0 +1,947 @@
+fileFormatVersion: 2
+guid: f64aad8732c3d654c8cfbd8aed0ccae5
+timeCreated: 1518375845
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1_BOOTS0
+    100002: 1_BOOTS1
+    100004: 1_BOOTS10
+    100006: 1_BOOTS11
+    100008: 1_BOOTS12
+    100010: 1_BOOTS13
+    100012: 1_BOOTS14
+    100014: 1_BOOTS15
+    100016: 1_BOOTS16
+    100018: 1_BOOTS17
+    100020: 1_BOOTS18
+    100022: 1_BOOTS19
+    100024: 1_BOOTS2
+    100026: 1_BOOTS20
+    100028: 1_BOOTS21
+    100030: 1_BOOTS22
+    100032: 1_BOOTS23
+    100034: 1_BOOTS24
+    100036: 1_BOOTS25
+    100038: 1_BOOTS26
+    100040: 1_BOOTS27
+    100042: 1_BOOTS28
+    100044: 1_BOOTS29
+    100046: 1_BOOTS3
+    100048: 1_BOOTS30
+    100050: 1_BOOTS31
+    100052: 1_BOOTS32
+    100054: 1_BOOTS33
+    100056: 1_BOOTS34
+    100058: 1_BOOTS35
+    100060: 1_BOOTS36
+    100062: 1_BOOTS37
+    100064: 1_BOOTS38
+    100066: 1_BOOTS39
+    100068: 1_BOOTS4
+    100070: 1_BOOTS40
+    100072: 1_BOOTS41
+    100074: 1_BOOTS42
+    100076: 1_BOOTS5
+    100078: 1_BOOTS6
+    100080: 1_BOOTS7
+    100082: 1_BOOTS8
+    100084: 1_BOOTS9
+    100086: BLACK_BELT10
+    100088: BLACK_BELT11
+    100090: BLACK_BELT12
+    100092: BLACK_BELT13
+    100094: BLACK_BELT14
+    100096: BLACK_BELT15
+    100098: BLACK_MATTE
+    100100: BLACK_MATTE1
+    100102: BLUE_PLASTIC
+    100104: cape_black0
+    100106: cape_black1
+    100108: cape_black2
+    100110: CYAN_MATTE
+    100112: Default1
+    100114: GREY_PLSTC
+    100116: Material__7260
+    100118: Material__7261
+    100120: Material__7262
+    100122: Material__7270
+    100124: Material__7271
+    100126: Material__7272
+    100128: Material__9280
+    100130: Material__9281
+    100132: Material__92810
+    100134: Material__92811
+    100136: Material__92812
+    100138: Material__92813
+    100140: Material__92814
+    100142: Material__9282
+    100144: Material__9283
+    100146: Material__9284
+    100148: Material__9285
+    100150: Material__9286
+    100152: Material__9287
+    100154: Material__9288
+    100156: Material__9289
+    100158: Material__9290
+    100160: Material__9291
+    100162: Material__9292
+    100164: Material__9293
+    100166: Material__9294
+    100168: RED_PLASTIC
+    100170: RED_PLSTC
+    100172: //RootNode
+    400000: 1_BOOTS0
+    400002: 1_BOOTS1
+    400004: 1_BOOTS10
+    400006: 1_BOOTS11
+    400008: 1_BOOTS12
+    400010: 1_BOOTS13
+    400012: 1_BOOTS14
+    400014: 1_BOOTS15
+    400016: 1_BOOTS16
+    400018: 1_BOOTS17
+    400020: 1_BOOTS18
+    400022: 1_BOOTS19
+    400024: 1_BOOTS2
+    400026: 1_BOOTS20
+    400028: 1_BOOTS21
+    400030: 1_BOOTS22
+    400032: 1_BOOTS23
+    400034: 1_BOOTS24
+    400036: 1_BOOTS25
+    400038: 1_BOOTS26
+    400040: 1_BOOTS27
+    400042: 1_BOOTS28
+    400044: 1_BOOTS29
+    400046: 1_BOOTS3
+    400048: 1_BOOTS30
+    400050: 1_BOOTS31
+    400052: 1_BOOTS32
+    400054: 1_BOOTS33
+    400056: 1_BOOTS34
+    400058: 1_BOOTS35
+    400060: 1_BOOTS36
+    400062: 1_BOOTS37
+    400064: 1_BOOTS38
+    400066: 1_BOOTS39
+    400068: 1_BOOTS4
+    400070: 1_BOOTS40
+    400072: 1_BOOTS41
+    400074: 1_BOOTS42
+    400076: 1_BOOTS5
+    400078: 1_BOOTS6
+    400080: 1_BOOTS7
+    400082: 1_BOOTS8
+    400084: 1_BOOTS9
+    400086: BLACK_BELT10
+    400088: BLACK_BELT11
+    400090: BLACK_BELT12
+    400092: BLACK_BELT13
+    400094: BLACK_BELT14
+    400096: BLACK_BELT15
+    400098: BLACK_MATTE
+    400100: BLACK_MATTE1
+    400102: BLUE_PLASTIC
+    400104: cape_black0
+    400106: cape_black1
+    400108: cape_black2
+    400110: CYAN_MATTE
+    400112: Default1
+    400114: GREY_PLSTC
+    400116: Material__7260
+    400118: Material__7261
+    400120: Material__7262
+    400122: Material__7270
+    400124: Material__7271
+    400126: Material__7272
+    400128: Material__9280
+    400130: Material__9281
+    400132: Material__92810
+    400134: Material__92811
+    400136: Material__92812
+    400138: Material__92813
+    400140: Material__92814
+    400142: Material__9282
+    400144: Material__9283
+    400146: Material__9284
+    400148: Material__9285
+    400150: Material__9286
+    400152: Material__9287
+    400154: Material__9288
+    400156: Material__9289
+    400158: Material__9290
+    400160: Material__9291
+    400162: Material__9292
+    400164: Material__9293
+    400166: Material__9294
+    400168: RED_PLASTIC
+    400170: RED_PLSTC
+    400172: //RootNode
+    2300000: 1_BOOTS0
+    2300002: 1_BOOTS1
+    2300004: 1_BOOTS10
+    2300006: 1_BOOTS11
+    2300008: 1_BOOTS12
+    2300010: 1_BOOTS13
+    2300012: 1_BOOTS14
+    2300014: 1_BOOTS15
+    2300016: 1_BOOTS16
+    2300018: 1_BOOTS17
+    2300020: 1_BOOTS18
+    2300022: 1_BOOTS19
+    2300024: 1_BOOTS2
+    2300026: 1_BOOTS20
+    2300028: 1_BOOTS21
+    2300030: 1_BOOTS22
+    2300032: 1_BOOTS23
+    2300034: 1_BOOTS24
+    2300036: 1_BOOTS25
+    2300038: 1_BOOTS26
+    2300040: 1_BOOTS27
+    2300042: 1_BOOTS28
+    2300044: 1_BOOTS29
+    2300046: 1_BOOTS3
+    2300048: 1_BOOTS30
+    2300050: 1_BOOTS31
+    2300052: 1_BOOTS32
+    2300054: 1_BOOTS33
+    2300056: 1_BOOTS34
+    2300058: 1_BOOTS35
+    2300060: 1_BOOTS36
+    2300062: 1_BOOTS37
+    2300064: 1_BOOTS38
+    2300066: 1_BOOTS39
+    2300068: 1_BOOTS4
+    2300070: 1_BOOTS40
+    2300072: 1_BOOTS41
+    2300074: 1_BOOTS42
+    2300076: 1_BOOTS5
+    2300078: 1_BOOTS6
+    2300080: 1_BOOTS7
+    2300082: 1_BOOTS8
+    2300084: 1_BOOTS9
+    2300086: BLACK_BELT10
+    2300088: BLACK_BELT11
+    2300090: BLACK_BELT12
+    2300092: BLACK_BELT13
+    2300094: BLACK_BELT14
+    2300096: BLACK_BELT15
+    2300098: BLACK_MATTE
+    2300100: BLACK_MATTE1
+    2300102: BLUE_PLASTIC
+    2300104: cape_black0
+    2300106: cape_black1
+    2300108: cape_black2
+    2300110: CYAN_MATTE
+    2300112: Default1
+    2300114: GREY_PLSTC
+    2300116: Material__7260
+    2300118: Material__7261
+    2300120: Material__7262
+    2300122: Material__7270
+    2300124: Material__7271
+    2300126: Material__7272
+    2300128: Material__9280
+    2300130: Material__9281
+    2300132: Material__92810
+    2300134: Material__92811
+    2300136: Material__92812
+    2300138: Material__92813
+    2300140: Material__92814
+    2300142: Material__9282
+    2300144: Material__9283
+    2300146: Material__9284
+    2300148: Material__9285
+    2300150: Material__9286
+    2300152: Material__9287
+    2300154: Material__9288
+    2300156: Material__9289
+    2300158: Material__9290
+    2300160: Material__9291
+    2300162: Material__9292
+    2300164: Material__9293
+    2300166: Material__9294
+    2300168: RED_PLASTIC
+    2300170: RED_PLSTC
+    3300000: 1_BOOTS0
+    3300002: 1_BOOTS1
+    3300004: 1_BOOTS10
+    3300006: 1_BOOTS11
+    3300008: 1_BOOTS12
+    3300010: 1_BOOTS13
+    3300012: 1_BOOTS14
+    3300014: 1_BOOTS15
+    3300016: 1_BOOTS16
+    3300018: 1_BOOTS17
+    3300020: 1_BOOTS18
+    3300022: 1_BOOTS19
+    3300024: 1_BOOTS2
+    3300026: 1_BOOTS20
+    3300028: 1_BOOTS21
+    3300030: 1_BOOTS22
+    3300032: 1_BOOTS23
+    3300034: 1_BOOTS24
+    3300036: 1_BOOTS25
+    3300038: 1_BOOTS26
+    3300040: 1_BOOTS27
+    3300042: 1_BOOTS28
+    3300044: 1_BOOTS29
+    3300046: 1_BOOTS3
+    3300048: 1_BOOTS30
+    3300050: 1_BOOTS31
+    3300052: 1_BOOTS32
+    3300054: 1_BOOTS33
+    3300056: 1_BOOTS34
+    3300058: 1_BOOTS35
+    3300060: 1_BOOTS36
+    3300062: 1_BOOTS37
+    3300064: 1_BOOTS38
+    3300066: 1_BOOTS39
+    3300068: 1_BOOTS4
+    3300070: 1_BOOTS40
+    3300072: 1_BOOTS41
+    3300074: 1_BOOTS42
+    3300076: 1_BOOTS5
+    3300078: 1_BOOTS6
+    3300080: 1_BOOTS7
+    3300082: 1_BOOTS8
+    3300084: 1_BOOTS9
+    3300086: BLACK_BELT10
+    3300088: BLACK_BELT11
+    3300090: BLACK_BELT12
+    3300092: BLACK_BELT13
+    3300094: BLACK_BELT14
+    3300096: BLACK_BELT15
+    3300098: BLACK_MATTE
+    3300100: BLACK_MATTE1
+    3300102: BLUE_PLASTIC
+    3300104: cape_black0
+    3300106: cape_black1
+    3300108: cape_black2
+    3300110: CYAN_MATTE
+    3300112: Default1
+    3300114: GREY_PLSTC
+    3300116: Material__7260
+    3300118: Material__7261
+    3300120: Material__7262
+    3300122: Material__7270
+    3300124: Material__7271
+    3300126: Material__7272
+    3300128: Material__9280
+    3300130: Material__9281
+    3300132: Material__92810
+    3300134: Material__92811
+    3300136: Material__92812
+    3300138: Material__92813
+    3300140: Material__92814
+    3300142: Material__9282
+    3300144: Material__9283
+    3300146: Material__9284
+    3300148: Material__9285
+    3300150: Material__9286
+    3300152: Material__9287
+    3300154: Material__9288
+    3300156: Material__9289
+    3300158: Material__9290
+    3300160: Material__9291
+    3300162: Material__9292
+    3300164: Material__9293
+    3300166: Material__9294
+    3300168: RED_PLASTIC
+    3300170: RED_PLSTC
+    4300000: 1_BOOTS0
+    4300002: 1_BOOTS1
+    4300004: 1_BOOTS10
+    4300006: 1_BOOTS11
+    4300008: 1_BOOTS12
+    4300010: 1_BOOTS13
+    4300012: 1_BOOTS14
+    4300014: 1_BOOTS15
+    4300016: 1_BOOTS16
+    4300018: 1_BOOTS17
+    4300020: 1_BOOTS18
+    4300022: 1_BOOTS19
+    4300024: 1_BOOTS2
+    4300026: 1_BOOTS20
+    4300028: 1_BOOTS21
+    4300030: 1_BOOTS22
+    4300032: 1_BOOTS23
+    4300034: 1_BOOTS24
+    4300036: 1_BOOTS25
+    4300038: 1_BOOTS26
+    4300040: 1_BOOTS27
+    4300042: 1_BOOTS28
+    4300044: 1_BOOTS29
+    4300046: 1_BOOTS3
+    4300048: 1_BOOTS30
+    4300050: 1_BOOTS31
+    4300052: 1_BOOTS32
+    4300054: 1_BOOTS33
+    4300056: 1_BOOTS34
+    4300058: 1_BOOTS35
+    4300060: 1_BOOTS36
+    4300062: 1_BOOTS37
+    4300064: 1_BOOTS38
+    4300066: 1_BOOTS39
+    4300068: 1_BOOTS4
+    4300070: 1_BOOTS40
+    4300072: 1_BOOTS41
+    4300074: 1_BOOTS42
+    4300076: 1_BOOTS5
+    4300078: 1_BOOTS6
+    4300080: 1_BOOTS7
+    4300082: 1_BOOTS8
+    4300084: 1_BOOTS9
+    4300086: BLACK_BELT10
+    4300088: BLACK_BELT11
+    4300090: BLACK_BELT12
+    4300092: BLACK_BELT13
+    4300094: BLACK_BELT14
+    4300096: BLACK_BELT15
+    4300098: BLACK_MATTE
+    4300100: BLACK_MATTE1
+    4300102: BLUE_PLASTIC
+    4300104: cape_black0
+    4300106: cape_black1
+    4300108: cape_black2
+    4300110: CYAN_MATTE
+    4300112: Default1
+    4300114: GREY_PLSTC
+    4300116: Material__7260
+    4300118: Material__7261
+    4300120: Material__7262
+    4300122: Material__7270
+    4300124: Material__7271
+    4300126: Material__7272
+    4300128: Material__9280
+    4300130: Material__9281
+    4300132: Material__92810
+    4300134: Material__92811
+    4300136: Material__92812
+    4300138: Material__92813
+    4300140: Material__92814
+    4300142: Material__9282
+    4300144: Material__9283
+    4300146: Material__9284
+    4300148: Material__9285
+    4300150: Material__9286
+    4300152: Material__9287
+    4300154: Material__9288
+    4300156: Material__9289
+    4300158: Material__9290
+    4300160: Material__9291
+    4300162: Material__9292
+    4300164: Material__9293
+    4300166: Material__9294
+    4300168: RED_PLASTIC
+    4300170: RED_PLSTC
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS0Mat
+    second: {fileID: 2100000, guid: 46437fee64ebe304aaf04504583d5f1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS10Mat
+    second: {fileID: 2100000, guid: 3150858dd91c30b469aa68da8e583c4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS11Mat
+    second: {fileID: 2100000, guid: 3a64ee6c18d781543ad12da112d91e02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS12Mat
+    second: {fileID: 2100000, guid: 32285acb768658746bf7c555e5c2af7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS13Mat
+    second: {fileID: 2100000, guid: d70c975f78fbf5b46b24dd939a754d48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS14Mat
+    second: {fileID: 2100000, guid: d33f30eb27eec3c48993d8546ecf7e2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS15Mat
+    second: {fileID: 2100000, guid: 40d3d34f4c69e8042ae12a7700d0bdf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS16Mat
+    second: {fileID: 2100000, guid: cbed4f85524435245b62ee3adc2d6e56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS17Mat
+    second: {fileID: 2100000, guid: e3e446ce01348da4985585f0bcaa0633, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS18Mat
+    second: {fileID: 2100000, guid: 37735e5aa2dfff14c9f31bac4cd24188, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS19Mat
+    second: {fileID: 2100000, guid: 7c45d842ed754ec4882b531be7ac8681, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS1Mat
+    second: {fileID: 2100000, guid: 28e21d4ce1275ec41a0ec1050cde6b49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS20Mat
+    second: {fileID: 2100000, guid: 19bd283bdf7ccdc449ee6e83ed982ba5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS21Mat
+    second: {fileID: 2100000, guid: 7add8526022292741b869f34d6041034, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS22Mat
+    second: {fileID: 2100000, guid: cd573b59cd41c404f9ad19bd74cf4676, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS23Mat
+    second: {fileID: 2100000, guid: 015b8bc60531f96418ff03a3abcbfb2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS24Mat
+    second: {fileID: 2100000, guid: bdf0f7c8ed4967743a19a1c9e0956b93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS25Mat
+    second: {fileID: 2100000, guid: 2bc707c69bb25f548bffddde9266681a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS26Mat
+    second: {fileID: 2100000, guid: 3b88038f59f8ea14198a7b4c2f1360c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS27Mat
+    second: {fileID: 2100000, guid: db43b0064f13ee142aa866263fe6305d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS28Mat
+    second: {fileID: 2100000, guid: ebcc326ef43b2d947b014e8a67016375, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS29Mat
+    second: {fileID: 2100000, guid: 70071b2c26c7da4449fa86912d29ff62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS2Mat
+    second: {fileID: 2100000, guid: 76b09701983448a4d8f1d2ad74568d67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS30Mat
+    second: {fileID: 2100000, guid: c9468a4c4c6adaf41a996bac234ff947, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS31Mat
+    second: {fileID: 2100000, guid: 8464dd6adf0fc054ca7813daa07339eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS32Mat
+    second: {fileID: 2100000, guid: 7ddf8b93d36bc8a43b08113655600006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS33Mat
+    second: {fileID: 2100000, guid: 6abe38441a3af5f48a466f7a28e65f83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS34Mat
+    second: {fileID: 2100000, guid: 13daadae168beca4c8013853cad19919, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS35Mat
+    second: {fileID: 2100000, guid: 9597334a39d2f324caab57006ec554fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS36Mat
+    second: {fileID: 2100000, guid: e943a3060e5fda2479285554c5f861d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS37Mat
+    second: {fileID: 2100000, guid: 96f60d35440184d41b00a41f7f165d61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS38Mat
+    second: {fileID: 2100000, guid: 8800a33e90a7c8b48b7840f02310f49a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS39Mat
+    second: {fileID: 2100000, guid: 56a15421d5790a44986a1fdf0111fa38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS3Mat
+    second: {fileID: 2100000, guid: e675a2298ac124a44aea3a6746ee5ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS40Mat
+    second: {fileID: 2100000, guid: 895a7f4fa8822f74883cf43b08b27a62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS41Mat
+    second: {fileID: 2100000, guid: 6e062e03591570a40be10ad9f21b253a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS42Mat
+    second: {fileID: 2100000, guid: 990aa7bd428824b4794dde3846c3da8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS4Mat
+    second: {fileID: 2100000, guid: 0274e1e9535eb5240a794f6e59eeebd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS5Mat
+    second: {fileID: 2100000, guid: a56d092baeb07d04195a74d38747ce17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS6Mat
+    second: {fileID: 2100000, guid: 2fafbf5a0d405564a811527680d92e96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS7Mat
+    second: {fileID: 2100000, guid: 2eeba0c730eb86e4eb0457cde0ddb7cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS8Mat
+    second: {fileID: 2100000, guid: 63eece4d10cd68b4bb1a73d916b1d94a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1_BOOTS9Mat
+    second: {fileID: 2100000, guid: 7eaf8e14d84cdd448abeb883024aa275, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK_BELT10Mat
+    second: {fileID: 2100000, guid: 39598c41b6c6cdf48bc7ba0356ac1d04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK_BELT11Mat
+    second: {fileID: 2100000, guid: c2c6e00b04974cb4091fe65287fa50e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK_BELT12Mat
+    second: {fileID: 2100000, guid: 73d62138b25e97145824ebdfeb0f96dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK_BELT13Mat
+    second: {fileID: 2100000, guid: cbaeec92b55b75a499a12268109085e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK_BELT14Mat
+    second: {fileID: 2100000, guid: 5e02792b72c1c374e9bde943ddc33a22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK_BELT15Mat
+    second: {fileID: 2100000, guid: 55eeba349fb3f2046bbbef3a510878b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK_MATTE1Mat
+    second: {fileID: 2100000, guid: 2f70c3daf08910d4c939c512ff907c8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK_MATTEMat
+    second: {fileID: 2100000, guid: 14de04615f6eeea4d81ea30c87bf5b07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLUE_PLASTICMat
+    second: {fileID: 2100000, guid: dc3155c2ffed9a54da41e6d6135b78f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CYAN_MATTEMat
+    second: {fileID: 2100000, guid: 172e888ede6077d46bad28e9cc7f7138, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default1Mat
+    second: {fileID: 2100000, guid: 5c991be618ad74241b322c78efe8c1d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREY_PLSTCMat
+    second: {fileID: 2100000, guid: 06fe028c1d801704a81f595c1658a335, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__7260Mat
+    second: {fileID: 2100000, guid: 1cd05e837d55dc44c84e6c29c4d24424, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__7261Mat
+    second: {fileID: 2100000, guid: 0e781cc5b0b11ad47ba55acb4a9df92c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__7262Mat
+    second: {fileID: 2100000, guid: 1fd6ea51f0785fe47af111da762a2aa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__7270Mat
+    second: {fileID: 2100000, guid: e9e9736090eda204c8f6ecd9c9c226c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__7271Mat
+    second: {fileID: 2100000, guid: 6d6c461af680dbf4b8ece4b59283041e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__7272Mat
+    second: {fileID: 2100000, guid: 12b407ad21e201b4da951265ed4821f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__9280Mat
+    second: {fileID: 2100000, guid: fccfabe6f5c2ca3488e45469f73f0a93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__92810Mat
+    second: {fileID: 2100000, guid: a36dfa3c9b4b11d47864c997761803fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__92811Mat
+    second: {fileID: 2100000, guid: 65dc127a5aa33ee47bfe5e5710d9b1ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__92812Mat
+    second: {fileID: 2100000, guid: 3677164ac20a2c541aa8f78bcf14a1ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__92813Mat
+    second: {fileID: 2100000, guid: 4574abb52b0669c4faf4ec1dc8512c60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__92814Mat
+    second: {fileID: 2100000, guid: a190f0e47b3076e45aaff2916fe8ada1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__9281Mat
+    second: {fileID: 2100000, guid: b65bc70285c3ba44289b75d16005fd2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__9282Mat
+    second: {fileID: 2100000, guid: cb7694ec8cfbc764898ce19c5ad6a9c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__9283Mat
+    second: {fileID: 2100000, guid: 1a9bee3ffd5827b4ab012af3d0b51bb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__9284Mat
+    second: {fileID: 2100000, guid: 687d7971d12f4a1438913a06813d4e62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__9285Mat
+    second: {fileID: 2100000, guid: 38a210a5a507fd94dbbacd44eb4b2e9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__9286Mat
+    second: {fileID: 2100000, guid: 3e44cc84017deda48b22617c93f5a700, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__9287Mat
+    second: {fileID: 2100000, guid: 26fd6799303a14946b6cb4a30e0ae463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__9288Mat
+    second: {fileID: 2100000, guid: 104fb23bc7af2a548a3766b32beb0634, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__9289Mat
+    second: {fileID: 2100000, guid: 126af50c4fa6a2e4a87e7677a21f49e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__9290Mat
+    second: {fileID: 2100000, guid: 9b3a16f9e2e822a488692bbf0c68c72a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__9291Mat
+    second: {fileID: 2100000, guid: 0fd8b2a6366086047a2628a53d6e5b83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__9292Mat
+    second: {fileID: 2100000, guid: 95624f76bc4054c4fba97131c6d865d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__9293Mat
+    second: {fileID: 2100000, guid: 2f1bb8a9955cb3b49a08aa37967cd740, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__9294Mat
+    second: {fileID: 2100000, guid: f18add60d1e64ba49a37142037654961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RED_PLASTICMat
+    second: {fileID: 2100000, guid: e28364c4a1b47fe4cadbbbd87a977d83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RED_PLSTCMat
+    second: {fileID: 2100000, guid: 71febd7ca77c6914383686208780144e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cape_black0Mat
+    second: {fileID: 2100000, guid: 1ac95b27865496e4db0151dbb8e973bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cape_black1Mat
+    second: {fileID: 2100000, guid: a36b5ebe48ccfaa46a794287ad97ce11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cape_black2Mat
+    second: {fileID: 2100000, guid: 577dda1269595544eb647d7ad61d50d8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

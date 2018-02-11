@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: e175da0de9fae354f82c4836d1f1027b
+timeCreated: 1518364984
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bl_ankle
+    100004: bl_foot
+    100006: bl_hinge
+    100008: bl_hydr
+    100010: bl_shin
+    100012: bl_thigh
+    100014: body
+    100016: br_ankle
+    100018: br_foot
+    100020: br_hinge
+    100022: br_hydrl
+    100024: br_shin
+    100026: br_thigh
+    100028: fl_ankle
+    100030: fl_foot
+    100032: fl_hinge
+    100034: fl_hydrl
+    100036: fl_shin
+    100038: fl_thigh
+    100040: fr_ankle
+    100042: fr_foot
+    100044: fr_hinge
+    100046: fr_hydrl
+    100048: fr_shin
+    100050: fr_thigh
+    100052: ground
+    100054: head
+    100056: laser
+    100058: lb_gun
+    100060: lt_gun
+    100062: neck
+    100064: Object01
+    100066: rb_gun
+    100068: rt_gun
+    400000: //RootNode
+    400002: bl_ankle
+    400004: bl_foot
+    400006: bl_hinge
+    400008: bl_hydr
+    400010: bl_shin
+    400012: bl_thigh
+    400014: body
+    400016: br_ankle
+    400018: br_foot
+    400020: br_hinge
+    400022: br_hydrl
+    400024: br_shin
+    400026: br_thigh
+    400028: fl_ankle
+    400030: fl_foot
+    400032: fl_hinge
+    400034: fl_hydrl
+    400036: fl_shin
+    400038: fl_thigh
+    400040: fr_ankle
+    400042: fr_foot
+    400044: fr_hinge
+    400046: fr_hydrl
+    400048: fr_shin
+    400050: fr_thigh
+    400052: ground
+    400054: head
+    400056: laser
+    400058: lb_gun
+    400060: lt_gun
+    400062: neck
+    400064: Object01
+    400066: rb_gun
+    400068: rt_gun
+    2300000: bl_ankle
+    2300002: bl_foot
+    2300004: bl_hinge
+    2300006: bl_hydr
+    2300008: bl_shin
+    2300010: bl_thigh
+    2300012: body
+    2300014: br_ankle
+    2300016: br_foot
+    2300018: br_hinge
+    2300020: br_hydrl
+    2300022: br_shin
+    2300024: br_thigh
+    2300026: fl_ankle
+    2300028: fl_foot
+    2300030: fl_hinge
+    2300032: fl_hydrl
+    2300034: fl_shin
+    2300036: fl_thigh
+    2300038: fr_ankle
+    2300040: fr_foot
+    2300042: fr_hinge
+    2300044: fr_hydrl
+    2300046: fr_shin
+    2300048: fr_thigh
+    2300050: ground
+    2300052: head
+    2300054: laser
+    2300056: lb_gun
+    2300058: lt_gun
+    2300060: neck
+    2300062: Object01
+    2300064: rb_gun
+    2300066: rt_gun
+    3300000: bl_ankle
+    3300002: bl_foot
+    3300004: bl_hinge
+    3300006: bl_hydr
+    3300008: bl_shin
+    3300010: bl_thigh
+    3300012: body
+    3300014: br_ankle
+    3300016: br_foot
+    3300018: br_hinge
+    3300020: br_hydrl
+    3300022: br_shin
+    3300024: br_thigh
+    3300026: fl_ankle
+    3300028: fl_foot
+    3300030: fl_hinge
+    3300032: fl_hydrl
+    3300034: fl_shin
+    3300036: fl_thigh
+    3300038: fr_ankle
+    3300040: fr_foot
+    3300042: fr_hinge
+    3300044: fr_hydrl
+    3300046: fr_shin
+    3300048: fr_thigh
+    3300050: ground
+    3300052: head
+    3300054: laser
+    3300056: lb_gun
+    3300058: lt_gun
+    3300060: neck
+    3300062: Object01
+    3300064: rb_gun
+    3300066: rt_gun
+    4300000: bl_ankle
+    4300002: bl_foot
+    4300004: bl_hinge
+    4300006: bl_hydr
+    4300008: bl_shin
+    4300010: bl_thigh
+    4300012: body
+    4300014: br_ankle
+    4300016: br_foot
+    4300018: br_hinge
+    4300020: br_hydrl
+    4300022: br_shin
+    4300024: br_thigh
+    4300026: fl_ankle
+    4300028: fl_foot
+    4300030: fl_hinge
+    4300032: fl_hydrl
+    4300034: fl_shin
+    4300036: fl_thigh
+    4300038: fr_ankle
+    4300040: fr_foot
+    4300042: fr_hinge
+    4300044: fr_hydrl
+    4300046: fr_shin
+    4300048: fr_thigh
+    4300050: ground
+    4300052: head
+    4300054: laser
+    4300056: lb_gun
+    4300058: lt_gun
+    4300060: neck
+    4300062: Object01
+    4300064: rb_gun
+    4300066: rt_gun
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object01Mat
+    second: {fileID: 2100000, guid: b5ae7bbfe70f443448fb92eeafbd1612, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bl_ankleMat
+    second: {fileID: 2100000, guid: 3c5b278cd6502f94fa3c65c6ad15ca3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bl_footMat
+    second: {fileID: 2100000, guid: 68f51e37d06833f41a86ee46fcce6ff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bl_hingeMat
+    second: {fileID: 2100000, guid: 9c7a6610612604f49b493d73586cd782, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bl_hydrMat
+    second: {fileID: 2100000, guid: 623deae3ebd81bd4ebb09d2b7588446c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bl_shinMat
+    second: {fileID: 2100000, guid: b227c3d00f2333341aec909097678260, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bl_thighMat
+    second: {fileID: 2100000, guid: 2d50f23d41afccb439704806b67dcd2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bodyMat
+    second: {fileID: 2100000, guid: 1cb40637591233b40844966a4c6d649c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: br_ankleMat
+    second: {fileID: 2100000, guid: 1a5ee3c0ba2acc64ab200e09158d7b22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: br_footMat
+    second: {fileID: 2100000, guid: 045ce23fa742bb2418ee6d0fbdd6bd7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: br_hingeMat
+    second: {fileID: 2100000, guid: dd9131e40f3bf4a4284ff8073ae28db0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: br_hydrlMat
+    second: {fileID: 2100000, guid: 00bb6572a8ad30042abdad58ffc3886a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: br_shinMat
+    second: {fileID: 2100000, guid: c312c3e05ef28754f8659da432937b92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: br_thighMat
+    second: {fileID: 2100000, guid: cf9ba8e211fa4004b9311984c069dd12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fl_ankleMat
+    second: {fileID: 2100000, guid: 1a9106e8350e8f241bea37cb7026ccb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fl_footMat
+    second: {fileID: 2100000, guid: f6428b0ae2d3c5341965db387d32b6c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fl_hingeMat
+    second: {fileID: 2100000, guid: 3fff0c52802301544bf1be873b625c9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fl_hydrlMat
+    second: {fileID: 2100000, guid: fe49c378d53dd60499621efe7b4859c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fl_shinMat
+    second: {fileID: 2100000, guid: 113935f24915dca4384ea6252e3faeea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fl_thighMat
+    second: {fileID: 2100000, guid: becaaeeb3a76e1540a85bc54f270ae26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fr_ankleMat
+    second: {fileID: 2100000, guid: 9dede41b3c27fdf4b94adda3fdb4d437, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fr_footMat
+    second: {fileID: 2100000, guid: 7d85cde75a24ed946a950145f92bb442, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fr_hingeMat
+    second: {fileID: 2100000, guid: b925f3d75f80c7c4d82600791fd0d9c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fr_hydrlMat
+    second: {fileID: 2100000, guid: 57c397dc294a24348bd8a8f958a92742, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fr_shinMat
+    second: {fileID: 2100000, guid: e4d00b701e698bb4982d8c3808cf6bb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fr_thighMat
+    second: {fileID: 2100000, guid: 29bc88b332233d04aa29b52ffbbe110d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: groundMat
+    second: {fileID: 2100000, guid: 9d63ef968160a97478f1770881d3fc5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headMat
+    second: {fileID: 2100000, guid: c905664f25517844b93c36ff8caa50e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: laserMat
+    second: {fileID: 2100000, guid: 28f88eeee3344bb46867ed4f2154c0cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lb_gunMat
+    second: {fileID: 2100000, guid: 7092a7d408035aa428da9ad2e83ad68c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lt_gunMat
+    second: {fileID: 2100000, guid: e2b67cb0c1a371e4ab5ccb3c2a94b549, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: neckMat
+    second: {fileID: 2100000, guid: f11a7e8ae921aa54f9fd40234b21f6ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rb_gunMat
+    second: {fileID: 2100000, guid: f5c1b323146dc3a4fbe2b72b4497474c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rt_gunMat
+    second: {fileID: 2100000, guid: 223a1e8ac8d8cc64bbacf7453106933a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
