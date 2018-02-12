@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4762a27f342cd8f4ebcc65e8e9148cd4
+timeCreated: 1518456845
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Star Jedi Rounded
+  fontNames:
+  - Star Jedi Rounded
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

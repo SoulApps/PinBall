@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿////////////////////////////////
+/// Práctica: Pinball
+/// Alumno /a: Ramón Guardia
+/// Curso: 2017/2018
+/// Fichero: PlungerScript.cs
+////////////////////////////////
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -10,14 +16,19 @@ public class PlungerScript : MonoBehaviour {
     float power;
     List<Rigidbody> ballList;
     bool ballReady;
+    public GameObject ball;
+    private float posX, posY, posZ;
 
 	// Use this for initialization
 	void Start () {
         powerSlider.minValue = 0;
         powerSlider.maxValue = maxPower;
         ballList = new List<Rigidbody>();
+        posX = ball.transform.position.x;
+        posY = ball.transform.position.y;
+        posZ = ball.transform.position.z;
 
-	}
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -54,6 +65,12 @@ public class PlungerScript : MonoBehaviour {
         {
             ballReady = false;
             power = 0f;
+        }
+        
+        if(ball.transform.position.y < -10)
+        {
+            ballReady = true;
+            ball.transform.position = new Vector3(posX, posY, posZ);
         }
 	}
 

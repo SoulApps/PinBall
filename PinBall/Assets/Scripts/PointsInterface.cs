@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿////////////////////////////////
+/// Práctica: Pinball
+/// Alumno /a: Ramón Guardia
+/// Curso: 2017/2018
+/// Fichero: PointsInterface.cs
+////////////////////////////////
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

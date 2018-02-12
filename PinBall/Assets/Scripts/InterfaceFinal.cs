@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿////////////////////////////////
+/// Práctica: Pinball
+/// Alumno /a: Ramón Guardia
+/// Curso: 2017/2018
+/// Fichero: InterfaceFinal.cs
+////////////////////////////////
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -11,7 +17,6 @@ public class InterfaceFinal : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        textThrown.text = string.Format("Final score: {0}", GameManager.points);
     }
 	
 	// Update is called once per frame

@@ -9,6 +9,7 @@ TagManager:
   - Vader
   - PointsText
   - DeadStar
+  - BB8
   layers:
   - Default
   - TransparentFX

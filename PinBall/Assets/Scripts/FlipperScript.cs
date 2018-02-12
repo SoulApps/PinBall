@@ -1,6 +1,13 @@
-﻿using System.Collections;
+﻿////////////////////////////////
+/// Práctica: Pinball
+/// Alumno /a: Ramón Guardia
+/// Curso: 2017/2018
+/// Fichero: FlipperScript.cs
+////////////////////////////////
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+
 
 public class FlipperScript : MonoBehaviour {
     // Angulo de posicion en descanso
