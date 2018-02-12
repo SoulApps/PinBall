@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Ball
   - Storm
+  - Vader
+  - PointsText
+  - DeadStar
   layers:
   - Default
   - TransparentFX
